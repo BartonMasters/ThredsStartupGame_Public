@@ -32,11 +32,19 @@ To access the project, download the content of this repository. Then open the co
 
 ## Authors and acknowledgment
 
-Bart Masters
-Alex Fatemi
-Cynthia Letting
-Jessica Menold
-Patrick Dudas
+ - Bart Masters.
+
+ - Alex Fatemi.
+
+ - Cynthia Letting.
+
+ - Jessica Menold.
+
+ - Patrick Dudas.
+
+
+
+
 
 
 
